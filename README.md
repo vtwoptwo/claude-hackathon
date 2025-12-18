@@ -1,10 +1,10 @@
 # Turia's Beer Race
 
 <video controls playsinline muted style="max-width: 100%; height: auto; border-radius: 12px;">
-	<source src="live-demovideo.webm" type="video/webm" />
-	<source src="live-demovideo.mp4" type="video/mp4" />
+	<source src="./live-demovideo.webm" type="video/webm" />
+	<source src="./live-demovideo.mp4" type="video/mp4" />
 	Your environment may not render inline video. 
-	<a href="live-demovideo.mp4">Open the demo video</a>.
+	<a href="./live-demovideo.mp4">Open the demo video</a>.
 </video>
 
 ## What This Is
@@ -72,6 +72,3 @@ npm run start
 - Each drink reduces 10 points.
 - First to 0 wins.
 - Reset to play again.
-
-## Add the Demo Video
-Place your demo file at the repo root as `live-gamedemo.mp4` (or `live-gamedemo.webm`). The embed at the top will render it automatically.
