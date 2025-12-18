@@ -1,7 +1,7 @@
 # Turia's Beer Race
 
 <video controls playsinline muted style="max-width: 100%; height: auto; border-radius: 12px;">
-	<source src="live-demovideo.mov" type="video/quicktime" />
+	<source src="live-demovideo.mp4" type="video/mp4" />
 </video>
 
 ## What This Is
