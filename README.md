@@ -1,7 +1,10 @@
 # Turia's Beer Race
 
 <video controls playsinline muted style="max-width: 100%; height: auto; border-radius: 12px;">
+	<source src="live-demovideo.webm" type="video/webm" />
 	<source src="live-demovideo.mp4" type="video/mp4" />
+	Your environment may not render inline video. 
+	<a href="live-demovideo.mp4">Open the demo video</a>.
 </video>
 
 ## What This Is
